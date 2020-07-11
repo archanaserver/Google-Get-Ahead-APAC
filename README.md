@@ -1,4 +1,4 @@
-# Google Get Ahead: APAC 2019🌸
+# Google Get Ahead: APAC 2019 🌸
 
 Get Ahead is a self-study **8 week Computer Science Developmental Program** for female identifying students interested in developing their technical skills and learning more about future employment opportunities at Google. The program include designated YouTube Live events, coding challenges, fun competitions, as well as weekly email updates with suggested materials to complete each week and much more.
 
