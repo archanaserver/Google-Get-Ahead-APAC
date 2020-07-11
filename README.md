@@ -6,7 +6,7 @@ The program **Google’s exclusive, invite-only, Summer Development Program** th
 
 📍 **Location:** Virtual program via Youtube & Google Hangouts Meets.
 
-🗓 **Date:** July 8, 2019 - August 30, 2019
+🗓  **Date:** July 8, 2019 - August 30, 2019
 
 For further information related to this program, you can check out the **[my blog](https://medium.com/@archanaserver/google-get-ahead-apac-experience-growwithgoogle-%EF%B8%8F-e1c3ee88058b)** I have covered all the essential information of this program. Also you can check out the **[website link](https://events.withgoogle.com/get-ahead-apac-2019/#content)** for more information.
 
