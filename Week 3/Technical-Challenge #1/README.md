@@ -5,7 +5,7 @@
 ### Problem Statement
 Given a list of iterators, implement a `FlattenedIterator` class which incrementally iterates over the integers from all the iterators in an interleaved fashion. 
 
-#### Example:
+#### Test Cases
 ```sh
 Iterators[0] = [1,2,3]
 Iterators[1] = [4,5]
