@@ -1,8 +1,3 @@
 ## Week 5
 
-### 1. [Youtube session](will add)
-
----
-
-
-### 2. [Technical Challenge]()
+### 1. [Technical Challenge #3](https://github.com/archanaserver/Google-Get-Ahead-APAC/tree/master/Week%205/Technical-Challenge%20%233)

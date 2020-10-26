@@ -5,6 +5,4 @@
 This event was so worthy and this helped me so much. In this session, two Google engineers run through a mock interview together, sharing detailed best practices designed to help you better prepare future tech interviews. 
 
 
-### 2. [Technical Challenge](https://docs.google.com/document/d/1_XpdLlZgJQLK4ftDGM2PNDZukbwl24XPMVN-b0Ivqng/edit#heading=h.5wejevad26i3)
-
-
+### 2. [Technical Challenge #2](https://github.com/archanaserver/Google-Get-Ahead-APAC/tree/master/Week%204/Technical-Challenge%20%232)
